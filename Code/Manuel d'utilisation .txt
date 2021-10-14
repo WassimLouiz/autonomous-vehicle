@@ -1,0 +1,10 @@
+Requirement:
+	python 3.7
+	tensorflow==1.14
+	carla 0.9.8
+	
+
+
+To train our model open the command in the file and type ==> py -3.7 DDPG_Train.py
+To test our model open the command in the file and type ==> py -3.7 DDPG_Test.py
+To try the lane detection open the command in the file and type ==> py -3.7 Lane_Detection.py
